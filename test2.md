@@ -1,3 +1,3 @@
 #### Simulating a merge conflict
 
-- this is a main file
+- this is a new branch file
