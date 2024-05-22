@@ -111,3 +111,7 @@ Created gitignore file with /tmp folder in it
 ### 8. Listing and Deleting Tags
 
 ![alt text](./commands/listDelete.png)
+
+### 9. Pushing Local Work to Remote Repositories && 10. Pulling Changes from Remote Repositories
+
+![alt text](./commands/lastlast.png)
