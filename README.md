@@ -1,4 +1,4 @@
-# Git Advanced Practice
+# Git Advanced Practical Exercises
 
 ## Part 1: Refining Git History
 
